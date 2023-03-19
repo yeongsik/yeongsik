@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=기록하는%20개발자%20영식%20GitHub&fontSize=50&fontAlignX=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=기록하는%20개발자%20영식%20GitHub&fontSize=50&fontAlign=80)
 
 <!-- 안녕하세요 백엔드 개발자 영식입니다 :) 
  -->
