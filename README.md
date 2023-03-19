@@ -6,3 +6,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongsik&show_icons=true&theme=gruvbox)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsik0266)](https://solved.ac/youngsik0266/)
